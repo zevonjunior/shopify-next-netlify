@@ -7,7 +7,7 @@ export default function Home({ products }) {
   return (
     <>
       <Head>
-        <title>Cheese and Meat Shop</title>
+        <title>And Or Cheese and Meat Shop</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
